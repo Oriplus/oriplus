@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Solidity.
 
-🔭 I’m currently working as an PHP developer
+🔭 I’m currently working as a PHP developer
 
 ### 🎯 Some technologies I use:
 
