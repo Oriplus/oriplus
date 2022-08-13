@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Oriana
 
-🌱 I’m currently learning Solidity.
+I'm a web developer, I had worked with technologies such as PHP, Laravel, and Vue.js. I'm on the road to becoming a web3 developer and contributing to the Blockchain ecosystem.
 
-🔭 I’m currently working as a PHP developer
+Currently, I'm working as a PHP developer and I'm part of the Ethereum Developer Program at Platzi where We're building amazing projects.
 
 ### 🎯 Some technologies I use:
 
