@@ -17,7 +17,11 @@ Currently, I'm working as a PHP developer and I'm part of the Ethereum Developer
 
 ### [Magic Pets](https://github.com/Oriplus/magic-pets-interface)
 
-Magic Pets is a dynamic collection of NFTs to raise funds for a fictional foundation of animals and learn about some abilities that an animal has. At first, the NFT is an egg that has a surprise in it, then when people buy they will receive a pet. It also works with control access to create an NFT.
+Magic Pets is a dynamic collection of NFTs to raise funds for a fictional foundation of animals and learn about some abilities that an animal has. At first, the NFT is an egg that has a surprise in it, then when people buy it they will receive a pet. It also works with control access to create an NFT.
+
+### [Orders Tracking](https://github.com/Oriplus/retoDNFT/blob/main/contracts/KeeperOrder.sol)
+
+This contract allows tracking an order using Dynamic NFTS and Chainlink Keepers. It shows five stages of an order for customers who shop online and want to see the whole process of their purchase.
 
 
 [![Oriplus GitHub stats](https://github-readme-stats.vercel.app/api?username=oriplus&show_icons=true&theme=tokyonight)](https://github.com/oriplus/github-readme-stats)
