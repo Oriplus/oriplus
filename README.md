@@ -2,7 +2,7 @@
 
 I'm a web developer, I had worked with technologies such as PHP, Laravel, and Vue.js. I'm on the road to becoming a web3 developer and contributing to the Blockchain ecosystem.
 
-Currently, I'm working as a PHP developer and I'm part of the Ethereum Developer Program at Platzi where We're building amazing projects.
+Currently, I'm working as a PHP developer, and I was part of the Ethereum Developer Program at Platzi where We built amazing Dapps.
 
 📫 How to reach me:
 
