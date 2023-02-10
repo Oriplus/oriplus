@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Oriana
 
-I'm a web developer, I had worked with technologies such as PHP, Laravel, and Vue.js. I'm on the road to becoming a web3 developer and contributing to the Blockchain ecosystem.
+I'm a web developer, I had worked with PHP, Laravel, and Vue.js. 
 
-Currently, I'm working as a PHP developer, and I was part of the Ethereum Developer Program at Platzi where We built amazing Dapps.
+I am always learning new technologies like Solidity|React to build Dapps. I like sharing my projects with the community💚
 
 📫 How to reach me:
 
